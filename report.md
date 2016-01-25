@@ -53,14 +53,14 @@ x_0 +7 x_1 +4 x_2 +6 x_3 +10 x_4 +15 x_5 +4 x_6 +8 x_7 +3 x_8 +x_9 &= 1,\\
 
     ![equation](https://c2.staticflickr.com/2/1672/24596965825_86e10ee3e5_o.jpg)
     ![equation](https://c2.staticflickr.com/2/1530/24596965815_6425b3e21b_o.png)
-    ![equation](https://farm2.staticflickr.com/1511/24570816416_bd234d79e7_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1492/24514719381_08f42fc8a0_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1540/24570816396_b2b6496b70_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1614/23970171473_c14b09503e_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1708/23968829694_4ce197debd_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1655/24301441550_cf22ee6e1a_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1698/24488646972_17d2a05602_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1498/24514719291_f0bc7a74f1_b.jpg)
+    ![equation](https://c2.staticflickr.com/2/1511/24570816416_8534d6de7e_o.png)
+    ![equation](https://c2.staticflickr.com/2/1492/24514719381_b26f824433_o.png)
+    ![equation](https://c2.staticflickr.com/2/1540/24570816396_2675f531ee_o.png)
+    ![equation](https://c2.staticflickr.com/2/1614/23970171473_dc38a90549_o.png)
+    ![equation](https://c2.staticflickr.com/2/1708/23968829694_a48ddbc46c_o.png)
+    ![equation](https://c2.staticflickr.com/2/1655/24301441550_7730411f2b_o.png)
+    ![equation](https://c2.staticflickr.com/2/1698/24488646972_5a418dbfc1_o.png)
+    ![equation](https://c2.staticflickr.com/2/1498/24514719291_711b19564d_o.png)
 
     _Solution(accending order, x_0 to x_9) =  
     [ 1.54210121 -2.46435204  1.99384451 -0.68636592 -1.25595756  0.85227156 1.2679462   0.53779707  1.78760146 -2.11028303]_
