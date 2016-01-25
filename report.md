@@ -35,6 +35,9 @@ In this section, please report:
 #####answers:
 1. The hexadecimal representation of 1302054 is **0x13de26**
 2. $$ \int_0^1 {x(x-x^2)^4}/{1+x^2}dx = {22}/{7}-\pi $$
+
+    ![equation](https://farm2.staticflickr.com/1566/23970018763_4c11146852_m.jpg)
+
 3. \begin{align*}
 3 x_0 +x_1 +5 x_2 +4 x_3 +8 x_4 +9 x_5 +4 x_6 +6 x_7 +2 x_8 +8 x_9 &= 2,\\
 x_0 +2 x_1 +8 x_2 +7 x_3 +x_4 +6 x_5 +2 x_6 +5 x_7 +4 x_8 +9 x_9 &= 5,\\
