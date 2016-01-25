@@ -51,6 +51,17 @@ x_0 +7 x_1 +4 x_2 +6 x_3 +10 x_4 +15 x_5 +4 x_6 +8 x_7 +3 x_8 +x_9 &= 1,\\
 6 x_0 +4 x_1 +7 x_2 +5 x_3 +8 x_4 +3 x_5 +2 x_6 +x_7 +5 x_8 +4 x_9 &= 6.
 \end{align*}
 
+    ![equation](https://farm2.staticflickr.com/1450/23970214933_fcac98d64c_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1530/24596965815_3a8e9d7305_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1511/24570816416_bd234d79e7_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1492/24514719381_08f42fc8a0_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1540/24570816396_b2b6496b70_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1614/23970171473_c14b09503e_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1708/23968829694_4ce197debd_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1655/24301441550_cf22ee6e1a_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1698/24488646972_17d2a05602_b.jpg)
+    ![equation](https://farm2.staticflickr.com/1498/24514719291_f0bc7a74f1_b.jpg)
+
     _Solution(accending order, x_0 to x_9) =  
     [ 1.54210121 -2.46435204  1.99384451 -0.68636592 -1.25595756  0.85227156 1.2679462   0.53779707  1.78760146 -2.11028303]_
 
