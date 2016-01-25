@@ -34,9 +34,9 @@ In this section, please report:
 
 #####answers:
 1. The hexadecimal representation of 1302054 is **0x13de26**
-2. $$ \int_0^1 {x(x-x^2)^4}/{1+x^2}dx = {22}/{7}-\pi $$
+2. $$ \int_0^1 \frac{x(x-x^2)^4}{1+x^2}dx = \frac{22}{7}-\pi $$
 
-    ![equation](https://farm2.staticflickr.com/1566/23970018763_4c11146852_m.jpg)
+    ![equation](https://c2.staticflickr.com/2/1446/24571104706_1a1b15b8d8_o.png)
 
 3. \begin{align*}
 3 x_0 +x_1 +5 x_2 +4 x_3 +8 x_4 +9 x_5 +4 x_6 +6 x_7 +2 x_8 +8 x_9 &= 2,\\
@@ -51,8 +51,8 @@ x_0 +7 x_1 +4 x_2 +6 x_3 +10 x_4 +15 x_5 +4 x_6 +8 x_7 +3 x_8 +x_9 &= 1,\\
 6 x_0 +4 x_1 +7 x_2 +5 x_3 +8 x_4 +3 x_5 +2 x_6 +x_7 +5 x_8 +4 x_9 &= 6.
 \end{align*}
 
-    ![equation](https://farm2.staticflickr.com/1450/23970214933_fcac98d64c_b.jpg)
-    ![equation](https://farm2.staticflickr.com/1530/24596965815_3a8e9d7305_b.jpg)
+    ![equation](https://c2.staticflickr.com/2/1672/24596965825_86e10ee3e5_o.jpg)
+    ![equation](https://c2.staticflickr.com/2/1530/24596965815_6425b3e21b_o.png)
     ![equation](https://farm2.staticflickr.com/1511/24570816416_bd234d79e7_b.jpg)
     ![equation](https://farm2.staticflickr.com/1492/24514719381_08f42fc8a0_b.jpg)
     ![equation](https://farm2.staticflickr.com/1540/24570816396_b2b6496b70_b.jpg)
