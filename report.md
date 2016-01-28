@@ -32,7 +32,8 @@ In this section, please report:
 2. The definite integrals that have chosen.
 3. System of 10 linear equations.
 
-#####answers:
+**answers**
+
 1. The hexadecimal representation of 1302054 is **0x13de26**
 2. $$ \int_0^1 \frac{x(x-x^2)^4}{1+x^2}dx = \frac{22}{7}-\pi $$
 
